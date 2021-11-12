@@ -2,6 +2,6 @@
 
 # Hello
 
-GitHub is cool.
+# GitHub is cool.
 
-git push
+# git push
